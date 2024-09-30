@@ -1,0 +1,14 @@
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/bin/Debug/net8.0/Ecuacion_cuadratica
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/bin/Debug/net8.0/Ecuacion_cuadratica.deps.json
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/bin/Debug/net8.0/Ecuacion_cuadratica.runtimeconfig.json
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/bin/Debug/net8.0/Ecuacion_cuadratica.dll
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/bin/Debug/net8.0/Ecuacion_cuadratica.pdb
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/obj/Debug/net8.0/Ecuacion_cuadratica.GeneratedMSBuildEditorConfig.editorconfig
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/obj/Debug/net8.0/Ecuacion_cuadratica.AssemblyInfoInputs.cache
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/obj/Debug/net8.0/Ecuacion_cuadratica.AssemblyInfo.cs
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/obj/Debug/net8.0/Ecuacion_cuadratica.csproj.CoreCompileInputs.cache
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/obj/Debug/net8.0/Ecuacion_cuadratica.dll
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/obj/Debug/net8.0/refint/Ecuacion_cuadratica.dll
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/obj/Debug/net8.0/Ecuacion_cuadratica.pdb
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/obj/Debug/net8.0/Ecuacion_cuadratica.genruntimeconfig.cache
+/home/leo/Desktop/NumRot_challenge/Ecuacion_cuadratica/obj/Debug/net8.0/ref/Ecuacion_cuadratica.dll
